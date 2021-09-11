@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+body{
+    background-color: aqua;
+    text-align: center;
+    align-items: stretch;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    font-weight: bolder;
+}
